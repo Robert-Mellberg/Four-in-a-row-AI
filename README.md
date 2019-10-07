@@ -2,6 +2,7 @@
 
 ![Loading Screen](GIFs/Fyra-i-rad-2019-10-07-12-41-39_Trim.gif)
 
+- [About the game](#About the game)
 
 ## About the game
 
