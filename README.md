@@ -2,8 +2,6 @@
 
 ![Loading Screen](GIFs/Fyra-i-rad-2019-10-07-12-41-39_Trim.gif)
 
-- [About the game](#About the game)
-<a name="About the game"/>
 ## About the game
 
 This game is a version of the popular game Connect Four (or Four in a Row). The game consists of a 6 bricks high and 8 bricks wide board. The two players take turns putting a brick (green brick for player 1 and red brick for player 2) in the lowest available spot in any column. The game ends when a player has four consecutive bricks in a horisontal, vertical or diagonal row.
